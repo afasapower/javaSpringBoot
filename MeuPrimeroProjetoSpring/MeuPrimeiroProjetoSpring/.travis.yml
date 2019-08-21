@@ -1,6 +1,5 @@
 language: java
-sdk:
+jdk:
   - openjdk8
-before_install: 
+before_install:
   - chmod +x mvnw
-  
